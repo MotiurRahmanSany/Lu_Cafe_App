@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565639292277",
+    "project_id": "lu-cafeteria-app",
+    "storage_bucket": "lu-cafeteria-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565639292277:android:ddc581744d2a6fecce1f3c",
+        "android_client_info": {
+          "package_name": "com.example.lu_cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJixIUjLq271HyrphFw2ZH3oHw2TnMfh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
